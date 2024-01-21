@@ -1,0 +1,12 @@
+{
+    "livePreview.debugOnExternalPreview": false,
+    "livePreview.defaultPreviewPath": "/index.html",
+    "livePreview.showServerStatusNotifications": false,
+    "livePreview.tasks.runTaskWithExternalPreview": false,
+    "livePreview.notifyOnOpenLooseFile": false,
+    "livePreview.httpHeaders": {
+
+        "Accept-Ranges": "bytes"
+    },
+    "livePreview.hostIP": "192.168.100.2"
+}
